@@ -20,4 +20,11 @@ A aplicação simula a aparência e o funcionamento de uma calculadora básica e
 - **TypeScript** - Para tipagem e maior confiabilidade do código.
 - **@expo/vector-icons** - Para ícones personalizados, como o ícone de calculadora.
 
+## 📸 Capturas de Tela
+
+![Captura de Tela da Calculadora](./assets/original.png)
+
+![Captura de Tela da Calculadora](./assets/calculator.png)
+
+
 
