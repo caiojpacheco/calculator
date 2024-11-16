@@ -22,8 +22,10 @@ A aplicação simula a aparência e o funcionamento de uma calculadora básica e
 
 ## 📸 Capturas de Tela
 
+### - Calculadora original
 ![Captura de Tela da Calculadora](./assets/original.png)
 
+### - Calculadora réplica
 ![Captura de Tela da Calculadora](./assets/calculator.png)
 
 
